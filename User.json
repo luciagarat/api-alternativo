@@ -1,0 +1,37 @@
+[
+    {
+        "ID": "Mariana-UserName",
+        "Direccion": "Aldebaran 213",
+        "Mail": "mariana_the_user@gmail.com",
+        "Contacto": "+58991222222",
+        "Metodo de pago": "Tajeta de Credito Visa"
+    },
+    {
+        "ID": "Jose-UserName",
+        "Direccion": "Sagitario 321",
+        "Mail": "joseph_the_user@gmail.com",
+        "Contacto": "+58992111111",
+        "Metodo de pago": "Tajeta de Credito OCA"
+    },
+    {
+        "ID": "Andrea-UserName",
+        "Direccion": "Osa Menor 231",
+        "Mail": "aerdna_the_user@gmail.com",
+        "Contacto": "+58998333333",
+        "Metodo de pago": "Tajeta de Credito Master Card"
+    },
+    {
+        "ID": "Julio-UserName",
+        "Direccion": "Casiopea 555",
+        "Mail": "juju_the_user@gmail.com",
+        "Contacto": "+58996555555",
+        "Metodo de pago": "Deposito RedPagos"
+    },
+    {
+        "ID": "Elena-UserName",
+        "Direccion": "Tauro 878",
+        "Mail": "anele_the_user@gmail.com",
+        "Contacto": "+58991464646",
+        "Metodo de pago": "Deposito Abitab"
+    }
+]
